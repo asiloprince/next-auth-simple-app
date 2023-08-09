@@ -76,3 +76,15 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ### Screenshots
+#### register page
+
+![register](https://github.com/asiloprince/next-auth-simple-app/assets/85353436/b9450707-a421-4a71-9244-9f24440b75bd)
+#### login page
+
+![loginpage](https://github.com/asiloprince/next-auth-simple-app/assets/85353436/9336ee42-6349-4939-a1ba-16aa8cec1c02)
+#### continue with google page
+
+![google](https://github.com/asiloprince/next-auth-simple-app/assets/85353436/38d15a82-8177-4463-9011-bae8483324d0)
+#### continue with github page
+
+![github](https://github.com/asiloprince/next-auth-simple-app/assets/85353436/d8ffe32f-f435-4417-9e84-b74e729340f5)
